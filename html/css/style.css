@@ -1,0 +1,14 @@
+.collaps{
+    width: 100%;
+    display: inline-block;
+}
+
+p {
+    display: block;
+    width: 100%;
+}
+
+.option-bar-data{
+    width: 100%;
+    display: inline-block;
+}
